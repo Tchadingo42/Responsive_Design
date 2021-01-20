@@ -1,3 +1,9 @@
 # Responsive_Design
 
-Personal css grid Layouts
+Personal Layouts
+
+CSS Grid
+Flexbox
+SASS
+React js
+Vue js
